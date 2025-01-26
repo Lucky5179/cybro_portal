@@ -2331,7 +2331,7 @@
                                   (0, s.jsx)("li", {
                                     className: "shop__social",
                                     children: (0, s.jsx)("a", {
-                                      href: "https://x.com/",
+                                      href: "https://x.com/cybro_erc20",
                                       className: "shop__social-link",
                                       target: "_blank",
                                       children: (0, s.jsx)(n.default, {
@@ -2346,7 +2346,7 @@
                                   (0, s.jsx)("li", {
                                     className: "shop__social",
                                     children: (0, s.jsx)("a", {
-                                      href: "https://t.me/",
+                                      href: "https://t.me/cybro_erc20",
                                       className: "shop__social-link",
                                       target: "_blank",
                                       children: (0, s.jsx)(n.default, {
@@ -2410,7 +2410,7 @@
                   (0, s.jsx)("li", {
                     className: "shop__social",
                     children: (0, s.jsx)("a", {
-                      href: "https://x.com/",
+                      href: "https://x.com/cybro_erc20",
                       className: "shop__social-link",
                       target: "_blank",
                       children: (0, s.jsx)(n.default, {
@@ -2426,7 +2426,7 @@
                   (0, s.jsx)("li", {
                     className: "shop__social",
                     children: (0, s.jsx)("a", {
-                      href: "https://t.me/",
+                      href: "https://t.me/cybro_erc20",
                       className: "shop__social-link",
                       target: "_blank",
                       children: (0, s.jsx)(n.default, {

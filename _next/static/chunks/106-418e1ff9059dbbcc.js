@@ -295,7 +295,7 @@
                               (0, a.jsx)("li", {
                                 className: "success__social",
                                 children: (0, a.jsx)("a", {
-                                  href: "https://x.com/",
+                                  href: "https://x.com/cybro_erc20",
                                   className:
                                     "success__social-link success__social-link--twitter",
                                   children: "Twitter",
@@ -304,7 +304,7 @@
                               (0, a.jsx)("li", {
                                 className: "success__social",
                                 children: (0, a.jsx)("a", {
-                                  href: "https://t.me/",
+                                  href: "https://t.me/cybro_erc20",
                                   className:
                                     "success__social-link success__social-link--telegram",
                                   children: "Telegram",
@@ -432,7 +432,7 @@
                               (0, a.jsx)("li", {
                                 className: "footer__social",
                                 children: (0, a.jsxs)("a", {
-                                  href: "https://x.com/",
+                                  href: "https://x.com/cybro_erc20",
                                   className: "footer__social-link",
                                   target: "_blank",
                                   children: [
@@ -454,7 +454,7 @@
                               (0, a.jsx)("li", {
                                 className: "footer__social",
                                 children: (0, a.jsxs)("a", {
-                                  href: "https://t.me/",
+                                  href: "https://t.me/cybro_erc20",
                                   className: "footer__social-link",
                                   target: "_blank",
                                   children: [
@@ -1145,7 +1145,7 @@
                           (0, a.jsx)("li", {
                             className: "social",
                             children: (0, a.jsx)("a", {
-                              href: "https://x.com/",
+                              href: "https://x.com/cybro_erc20",
                               className: "header__btn social__link",
                               target: "_blank",
                               children: (0, a.jsx)(s.default, {
@@ -1160,7 +1160,7 @@
                           (0, a.jsx)("li", {
                             className: "social",
                             children: (0, a.jsx)("a", {
-                              href: "https://t.me/",
+                              href: "https://t.me/cybro_erc20",
                               className: "header__btn social__link",
                               target: "_blank",
                               children: (0, a.jsx)(s.default, {
@@ -1316,7 +1316,7 @@
                         (0, a.jsx)("li", {
                           className: "social",
                           children: (0, a.jsx)("a", {
-                            href: "https://x.com/",
+                            href: "https://x.com/cybro_erc20",
                             className: "header__btn social__link",
                             target: "_blank",
                             children: (0, a.jsx)(s.default, {
@@ -1332,7 +1332,7 @@
                         (0, a.jsx)("li", {
                           className: "social",
                           children: (0, a.jsx)("a", {
-                            href: "https://t.me/",
+                            href: "https://t.me/cybro_erc20",
                             className: "header__btn social__link",
                             target: "_blank",
                             children: (0, a.jsx)(s.default, {
@@ -1614,7 +1614,7 @@
         let a = {
             x: "https://twitter.com/Cybro_io",
             discord: "https://discord.gg/xFMGDQPhrB",
-            telegram: "https://t.me/cybro_io",
+            telegram: "https://t.me/cybro_erc20",
             medium: "https://cybro.medium.com/",
             debank: "https://debank.com/official/CYBRO",
           },
