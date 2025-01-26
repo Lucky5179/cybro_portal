@@ -1657,7 +1657,7 @@
           W = a(55137);
         let D = () =>
           (0, s.jsx)(v.default, {
-            href: "https://app.cybro.io/token",
+            href: "https://app.cybro-ai.xyz/token",
             target: "_blank",
             className: "w-full",
             "data-sentry-element": "Link",
@@ -1902,7 +1902,7 @@
             }),
           et = () =>
             (0, s.jsx)(v.default, {
-              href: "https://app.cybro.io/staking",
+              href: "https://app.cybro-ai.xyz/staking",
               target: "_blank",
               className: "w-full",
               "data-sentry-element": "Link",

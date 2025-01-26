@@ -899,7 +899,7 @@
                             "Stake your CYBRO tokens and earn up to 20% more!",
                         }),
                         (0, a.jsx)(x.default, {
-                          href: "https://app.cybro.io/staking",
+                          href: "https://app.cybro-ai.xyz/staking",
                           target: "_blank",
                           className:
                             "button button--yellow button--arrow user-menu__offer-btn",
@@ -1175,7 +1175,7 @@
                         ],
                       }),
                       (0, a.jsxs)(y.rU, {
-                        href: "https://app.cybro.io/",
+                        href: "https://app.cybro-ai.xyz/",
                         className: (0, p.Z)("header__launchButton"),
                         target: "_blank",
                         "data-sentry-element": "Link",
