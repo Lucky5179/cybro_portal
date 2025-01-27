@@ -1061,9 +1061,9 @@
                         children: [
                           (0, s.jsx)("span", {
                             className: "holders__title-value",
-                            children: "18246",
+                            children: "-----",
                           }),
-                          (0, s.jsx)("span", {
+                          (0, s.jsx)("span", { 
                             className: "holders__title-label",
                             children: t.label,
                           }),

@@ -1109,7 +1109,7 @@
                             (0, a.jsx)("li", {
                               className: "header__menu-item",
                               children: (0, a.jsx)("a", {
-                                href: "/en#about",
+                                href: "#about",
                                 className: "header__menu-link",
                                 children: "ABOUT US",
                               }),
@@ -1117,7 +1117,7 @@
                             (0, a.jsx)("li", {
                               className: "header__menu-item",
                               children: (0, a.jsx)("a", {
-                                href: "/en#faq",
+                                href: "#faq",
                                 className: "header__menu-link",
                                 children: t.faq,
                               }),
@@ -1266,7 +1266,7 @@
                       (0, a.jsx)("li", {
                         className: "mobile-menu__item",
                         children: (0, a.jsx)("a", {
-                          href: "/en#about",
+                          href: "#about",
                           className: "mobile-menu__link",
                           onClick: d.Wj,
                           children: "About us",
@@ -1275,7 +1275,7 @@
                       (0, a.jsx)("li", {
                         className: "mobile-menu__item",
                         children: (0, a.jsx)("a", {
-                          href: "/en#faq",
+                          href: "#faq",
                           className: "mobile-menu__link",
                           onClick: d.Wj,
                           children: t.faq,
