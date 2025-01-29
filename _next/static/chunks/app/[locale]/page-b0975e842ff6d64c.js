@@ -913,10 +913,7 @@
               "data-sentry-component": "Featured",
               "data-sentry-source-file": "index.tsx",
               children: [
-                (0, s.jsx)("h6", {
-                  className: "title title--h6 featured__title",
-                  children: t.header,
-                }),
+
                 (0, s.jsx)("div", {
                   className: "container_main featured__container",
                   children: (0, s.jsx)("div", {
@@ -1207,104 +1204,10 @@
                 ],
               },
             ];
-          return (
-            (0, n.useEffect)(() => {
-              new i.Z(".roadmap__swiper", {
-                modules: [r.W_],
-                slidesPerView: "auto",
-                autoplay: { delay: 3e3 },
-                navigation: { nextEl: ".swiper-button-next" },
-                speed: 1e3,
-                initialSlide: 2,
-              }).slideTo(4);
-            }, []),
-            (0, s.jsx)("div", {
-              className: "container_main roadmap-container",
-              id: "roadmap",
-              "data-sentry-component": "Roadmap",
-              "data-sentry-source-file": "index.tsx",
-              children: (0, s.jsxs)("section", {
-                className: "roadmap",
-                children: [
-                  (0, s.jsx)("h2", {
-                    className: "title title--h2 roadmap__title",
-                    children: t.header,
-                  }),
-                  (0, s.jsx)("div", {
-                    children: (0, s.jsx)("div", {
-                      className: "swiper__container roadmap__swiper-container",
-                      children: (0, s.jsxs)("div", {
-                        className: "swiper roadmap__swiper",
-                        children: [
-                          (0, s.jsx)("button", {
-                            className:
-                              "swiper-button-next swiper__btn roadmap__swiper-btn",
-                          }),
-                          (0, s.jsx)("ul", {
-                            className: "swiper-wrapper roadmap__swiper-list",
-                            children: a.map((e, t) =>
-                              (0, s.jsx)(
-                                "li",
-                                {
-                                  className: (0, l.Z)(
-                                    "swiper-slide roadmap-card",
-                                    3 === t && "active"
-                                  ),
-                                  children: (0, s.jsxs)("div", {
-                                    className: "roadmap-card__wrapper",
-                                    children: [
-                                      (0, s.jsxs)("div", {
-                                        className: "roadmap-card__header",
-                                        children: [
-                                          (0, s.jsxs)("div", {
-                                            className: "roadmap-card__period",
-                                            children: [
-                                              (0, s.jsx)("span", {
-                                                className:
-                                                  "roadmap-card__period-quater",
-                                                children: e.quater,
-                                              }),
-                                              (0, s.jsx)("span", {
-                                                className:
-                                                  "roadmap-card__period-month",
-                                                children: e.year,
-                                              }),
-                                            ],
-                                          }),
-                                          (0, s.jsx)("span", {
-                                            className: "roadmap-card__step",
-                                            children: e.phaze,
-                                          }),
-                                        ],
-                                      }),
-                                      (0, s.jsx)("ul", {
-                                        className: "roadmap-card__list",
-                                        children: e.list.map((e, a) =>
-                                          (0, s.jsx)(
-                                            "li",
-                                            {
-                                              className: "roadmap-card__item",
-                                              children: e,
-                                            },
-                                            "roadmapSubItem" + t + "-" + a
-                                          )
-                                        ),
-                                      }),
-                                    ],
-                                  }),
-                                },
-                                "roadmapItem" + t
-                              )
-                            ),
-                          }),
-                        ],
-                      }),
-                    }),
-                  }),
-                ],
-              }),
-            })
-          );
+          // return (
+            
+
+          // );
         }
       },
       92212: function (e, t, a) {
@@ -1657,7 +1560,7 @@
           W = a(55137);
         let D = () =>
           (0, s.jsx)(v.default, {
-            href: "https://app.cybro-ai.xyz/token",
+            href: "https://app.cybroai.vip/token",
             target: "_blank",
             className: "w-full",
             "data-sentry-element": "Link",
@@ -1902,7 +1805,7 @@
             }),
           et = () =>
             (0, s.jsx)(v.default, {
-              href: "https://app.cybro-ai.xyz/staking",
+              href: "https://app.cybroai.vip/staking",
               target: "_blank",
               className: "w-full",
               "data-sentry-element": "Link",
