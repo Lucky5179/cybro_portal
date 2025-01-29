@@ -493,7 +493,7 @@
                               (0, a.jsx)("li", {
                                 className: "footer__term",
                                 children: (0, a.jsx)("a", {
-                                  href: "https://docs.cybro.io",
+                                  href: "https://docs.cybroai.vip",
                                   className: "footer__term-link",
                                   target: "_blank",
                                   children: t.doc,
@@ -1125,7 +1125,7 @@
                             (0, a.jsx)("li", {
                               className: "header__menu-item",
                               children: (0, a.jsx)("a", {
-                                href: "https://docs.cybro.io",
+                                href: "https://docs.cybroai.vip",
                                 className: "header__menu-link",
                                 target: "_black",
                                 children: "DOCS",
@@ -1284,7 +1284,7 @@
                       (0, a.jsx)("li", {
                         className: "mobile-menu__item",
                         children: (0, a.jsx)("a", {
-                          href: "https://docs.cybro.io",
+                          href: "https://docs.cybroai.vip",
                           className: "mobile-menu__link",
                           onClick: d.Wj,
                           target: "_black",
@@ -1620,14 +1620,14 @@
           },
           s = {
             aboutCybro:
-              "https://docs.cybro.io/cybro/usdcybro-token/about-usdcybro",
+              "https://docs.cybroai.vip/cybro/usdcybro-token/about-usdcybro",
             staking:
-              "https://docs.cybro.io/cybro/usdcybro-token/staking-usdcybro-and-usdlcybro",
+              "https://docs.cybroai.vip/cybro/usdcybro-token/staking-usdcybro-and-usdlcybro",
             howToBuy:
-              "https://docs.cybro.io/cybro/usdcybro-token/how-to-buy#how-to-buy-cybro-using-the-swap-widget-on-the-token-page",
+              "https://docs.cybroai.vip/cybro/usdcybro-token/how-to-buy#how-to-buy-cybro-using-the-swap-widget-on-the-token-page",
             defillama: "https://defillama.com/protocol/cybro",
             medium: "https://cybro.medium.com/",
-            tokenPage: "https://cybro.io/en/token",
+            tokenPage: "https://cybroai.vip/en/token",
           };
       },
       77215: function (e, t, n) {

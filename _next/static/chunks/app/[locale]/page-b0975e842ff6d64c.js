@@ -818,7 +818,7 @@
                     "data-sentry-source-file": "index.tsx",
                   }),
                   (0, s.jsx)("a", {
-                    href: "https://docs.cybro.io/",
+                    href: "https://docs.cybroai.vip/",
                     className: "faq__more",
                     target: "_blank",
                     children: "More FAQs",
